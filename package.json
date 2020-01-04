@@ -1,0 +1,15 @@
+{
+  "name": "calculadoradejuros",
+  "version": "1.0.0",
+  "description": "Calculadora de juros simples e composto",
+  "main": "juros.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Daniel de Jesus",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
